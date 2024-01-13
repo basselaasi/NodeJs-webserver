@@ -74,3 +74,10 @@
 2024-01-07	19:16:28	54c6b591-21c0-47a2-91fd-695841e37507	GET	 undefined	 /employees/1
 2024-01-07	19:17:24	cb9d5580-ddf9-4115-9885-c968c43eccb8	GET	 undefined	 /employees/1
 2024-01-07	19:17:28	947c4801-82d3-4695-bfa8-f68551a524f8	GET	 undefined	 /employees/2
+2024-01-13	01:29:28	720887e6-5373-4fd8-b718-4655009ccb60	GET	 undefined	 /
+2024-01-13	01:29:30	1cbbb17b-9a21-4405-ba1e-eb53f0b98c9b	GET	 undefined	 /css/style.css
+2024-01-13	01:29:36	7a1b3737-85ed-481e-a6a9-c1480ef40785	GET	 undefined	 /employees
+2024-01-13	01:29:44	8691d0bc-1b06-4747-b93c-6f3bdcdbde48	GET	 undefined	 /old-page
+2024-01-13	01:29:44	9a20c4ca-3d2e-4b3a-a8bf-6ef17786bdc3	GET	 undefined	 /new-page.html
+2024-01-13	01:29:44	1fde7d45-b9ba-4ab7-b6d8-847db78da204	GET	 undefined	 /css/style.css
+2024-01-13	01:29:44	0c8ab2d1-4492-47ee-bfb2-c1a42e941e1a	GET	 undefined	 /img/img1.jpg
