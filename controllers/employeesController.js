@@ -30,7 +30,7 @@ const createNewEmployee = (req, res) => {
     data.setEmployees([...data.employees, newEmployee]);
     res.status(201).json(data.employees);
 };
-const updateEmplyee = (req, res) => {
+const updateEmployee = (req, res) => {
     /* res.json({
         "id": req.body.id,
         "firstname": req.body.firstname,
@@ -73,4 +73,10 @@ const getEmployee = (req, res) => {
     res.json(employee);
 }
 
-module.exports = {getAllEmployees, createNewEmployee, updateEmplyee, deleteEmployee, getEmployee};
+module.exports = {
+    getAllEmployees, 
+    createNewEmployee, 
+    updateEmployee, 
+    deleteEmployee, 
+    getEmployee
+};

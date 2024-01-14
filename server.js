@@ -19,9 +19,11 @@ app.use(express.urlencoded({extended: false}));
 app.use(express.json());
 
 // Serve static files
-app.use('/', express.static(path.join(__dirname, 'public')));
+//app.use('/', express.static(path.join(__dirname, 'public')));
 
 app.use('/', require('./routes/root')); // root
+
+app.use('/register', require('./routes/register')); // root
 
 app.use('/employees', require('./routes/api/employees')); // employees)')
 
